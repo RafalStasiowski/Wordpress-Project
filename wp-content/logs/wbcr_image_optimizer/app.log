@@ -1,0 +1,10 @@
+
+20-04-2021 20:50:11 [localhost][info] Parent plugin start installation!
+20-04-2021 20:50:11 [localhost][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.3
+20-04-2021 20:50:11 [localhost][info] Parent plugin installation complete!
+-------------------------------
+20-04-2021 20:51:00 [localhost][info] Try to create backup directory. Backup dir: (C:/xampp/htdocs/wp/wp-content/uploads/wio_backup)
+-------------------------------
